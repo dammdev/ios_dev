@@ -1,0 +1,13 @@
+//
+//  First_level_title.h
+//  centro de comunicaciones
+//
+//  Created by Darwin Morales on 26/2/17.
+//  Copyright © 2017 Darwin Morales. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface First_level_title : UILabel
+
+@end
